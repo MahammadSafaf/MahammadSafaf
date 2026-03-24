@@ -40,8 +40,7 @@ I am actively seeking opportunities in IT Support, Cloud Support, and DevOps rol
 ## 📊 Architecture Diagram
 
 ![CI/CD Architecture]
-ci-cd-architecture-aws-jenkins-docker.jpeg
-
+https://github.com/MahammadSafaf/MahammadSafaf/blob/main/ci-cd-architecture-aws-jenkins-docker.jpeg
 ---
 
 ## 📈 What I'm Learning
